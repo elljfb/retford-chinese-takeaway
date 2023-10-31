@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//retford-chinese-takeaway.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://retford-chinese-takeaway.com</loc>
 		<lastmod>2023-10-31T21:11:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/freds-menu-with-prices/</loc>
+		<loc>https://retford-chinese-takeaway.com/freds-menu-with-prices/</loc>
 		<lastmod>2023-10-26T12:55:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/Screenshot-2023-06-13-at-14.06.17.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/lucky-days-menu-with-prices/</loc>
+		<loc>https://retford-chinese-takeaway.com/lucky-days-menu-with-prices/</loc>
 		<lastmod>2023-10-26T13:37:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/Screenshot-2023-06-13-at-14.02.33.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/china-kitchen-menu-with-prices/</loc>
+		<loc>https://retford-chinese-takeaway.com/china-kitchen-menu-with-prices/</loc>
 		<lastmod>2023-10-26T20:43:21+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/Screenshot-2023-10-24-at-14.18.56.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/open-kitchen-menu-with-prices/</loc>
+		<loc>https://retford-chinese-takeaway.com/open-kitchen-menu-with-prices/</loc>
 		<lastmod>2023-10-27T20:43:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/Screenshot-2023-06-13-at-14.07.24.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/thai-bowl-menu-with-prices/</loc>
+		<loc>https://retford-chinese-takeaway.com/thai-bowl-menu-with-prices/</loc>
 		<lastmod>2023-10-30T20:40:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/Screenshot-2023-06-13-at-14.04.53.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/hong-kong-house-menu-with-prices/</loc>
+		<loc>https://retford-chinese-takeaway.com/hong-kong-house-menu-with-prices/</loc>
 		<lastmod>2023-10-31T11:34:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/Screenshot-2023-06-13-at-14.04.01.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/chinese-chef-menu-with-prices/</loc>
+		<loc>https://retford-chinese-takeaway.com/chinese-chef-menu-with-prices/</loc>
 		<lastmod>2023-10-31T21:11:02+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/Screenshot-2023-06-13-at-14.06.53.png</image:loc>

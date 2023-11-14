@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//retford-chinese-takeaway.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://retford-chinese-takeaway.com</loc>
 	</url>
 	<url>
-		<loc>/about-us/</loc>
+		<loc>https://retford-chinese-takeaway.com/about-us/</loc>
 		<lastmod>2023-10-24T13:47:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/privacy-policy/</loc>
+		<loc>https://retford-chinese-takeaway.com/privacy-policy/</loc>
 		<lastmod>2023-10-24T14:00:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/terms-of-use/</loc>
+		<loc>https://retford-chinese-takeaway.com/terms-of-use/</loc>
 		<lastmod>2023-10-24T14:40:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/contact-us/</loc>
+		<loc>https://retford-chinese-takeaway.com/contact-us/</loc>
 		<lastmod>2023-10-30T20:59:13+00:00</lastmod>
 	</url>
 </urlset>

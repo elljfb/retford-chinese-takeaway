@@ -11,11 +11,11 @@
 	<atom:link href="/lucky-days-menu-with-prices/feed/" rel="self" type="application/rss+xml" />
 	<link>/lucky-days-menu-with-prices/</link>
 	<description>Menus with Prices</description>
-	<lastBuildDate>Thu, 26 Oct 2023 13:37:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Nov 2023 10:07:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 </channel>
 </rss>
